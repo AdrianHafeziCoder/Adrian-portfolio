@@ -1,4 +1,4 @@
-# Adrian Hafezi — Portfolio (https://adrianhafezicoder.github.io/Adrian-portfolio)
+# Adrian Hafezi — Portfolio [](https://adrianhafezicoder.github.io/Adrian-portfolio)
 
 A responsive bilingual React portfolio with shared light/dark mode, English/Persian content, GSAP scroll reveals, and ten interactive local demo experiences.
 
